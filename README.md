@@ -1,6 +1,6 @@
 ### Welcome to my GitHub !
 
-# AdehMa - Adnane El Hamdaoui
+# AdehMA - Adnane El Hamdaoui
 
 👋 Hey there! I'm Adnane El Hamdaoui, a 27-year-old programming enthusiast born on March 5, 1996. I've recently embarked on my programming journey, fueled by a passion that's been burning since my early years.
 
