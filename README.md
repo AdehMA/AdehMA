@@ -1,5 +1,7 @@
 ### Welcome to my GitHub !
 
+# AdehMa - Adnane El Hamdaoui
+
 👋 Hey there! I'm Adnane El Hamdaoui, a 27-year-old programming enthusiast born on March 5, 1996. I've recently embarked on my programming journey, fueled by a passion that's been burning since my early years.
 
 🚀 My fascination lies in embedded systems, and I'm on a quest to delve deeper into this exciting realm. Currently wielding the C programming language, I'm gearing up to explore the intricacies of assembly language.
